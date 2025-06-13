@@ -1,2 +1,2 @@
 # aluraplus
-praticando html e css no projeto Alura+
+Praticando html e css no projeto Alura+ feito durante o curso
